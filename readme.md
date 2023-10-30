@@ -25,7 +25,8 @@ This repository contains automated test cases for [Redmine](https://www.redmine.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/redmine-playwright.git
+git clone
+https://github.com/kristinap8/playwright-task-2.git
 ```
 
 2. Navigate to the project directory:
