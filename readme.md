@@ -67,3 +67,4 @@ npm run generate-allure-report
 ```bash
 npm run open-allure-report
 ```
+# playwright-task-2
