@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 31 05:34:37 GMT 2023","Tue Oct 31 05:34:44 GMT 2023","7021","chromium","issuesPage.spec.js","Validate the working of ""Issues"" page functionality","","","Create a custom query for filtering issues by tracker",""
+"passed","Tue Oct 31 05:32:48 GMT 2023","Tue Oct 31 05:32:55 GMT 2023","6295","chromium","downloadPage.spec.js","","","","Download the latest release file",""
+"passed","Tue Oct 31 05:34:14 GMT 2023","Tue Oct 31 05:34:37 GMT 2023","22787","chromium","issuesPage.spec.js","Validate the working of ""Issues"" page functionality","","","Filter issues by status",""
+"passed","Tue Oct 31 05:32:56 GMT 2023","Tue Oct 31 05:33:18 GMT 2023","21502","chromium","forumsPage.spec.js","","","","Create a new message in a forum with empty message content",""
+"failed","Tue Oct 31 05:33:56 GMT 2023","Tue Oct 31 05:34:12 GMT 2023","15987","chromium","homePage.spec.js","","","","Verify redirection to book purchase page from the ""Redmine books"" section",""
