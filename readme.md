@@ -11,6 +11,8 @@
 ## Summary of Repo
 
 This repository contains automated test cases for [Redmine](https://www.redmine.org/) implemented using Playwright. 
+The allure-report: https://kristinap8.github.io/playwright-task-2/5/.
+The pipeline for the optional task is available in the additional branch.
 
 ## Requirements
 
