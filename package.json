@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@faker-js/faker": "^8.2.0",
+    "playwright": "^1.39.0",
     "test": "^3.3.0"
   }
 }
