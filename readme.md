@@ -34,7 +34,7 @@ https://github.com/kristinap8/playwright-task-2.git
 2. Navigate to the project directory:
 
 ```bash
-cd redmine-playwright
+cd playwright-task-2
 ```
 
 3. Install project dependencies:
